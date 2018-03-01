@@ -9,7 +9,7 @@ Team Members
 SJSU application process helper using amazon alexa.
 
 ### Aim
-To build a bot that will clarify all the queries asked by the students regarding SJSU admission application process. 
+To build a Virtual Assistant that will clarify all the queries asked by the students regarding SJSU admission application process. 
 
 ### Implementation
 Amazon alexa is an intelligent personal assistant developed by amazon Lab-126. It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, and other real-time information, such as news.
