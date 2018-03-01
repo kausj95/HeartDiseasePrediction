@@ -14,7 +14,7 @@ To build a bot that will clarify all the queries asked by the students regarding
 ### Implementation
 Amazon alexa is an intelligent personal assistant developed by amazon Lab-126. It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, and other real-time information, such as news.
 
-In this project, we will try to build a chatbot that will answer all the queries asked by students regarding SJSU application process. We will create a database for the questions asked by the students and thus the bot (alexa) will answer those questions according to its intelligence(the information with which it is trained) using its voice interaction abilities. 
+In this project, we will try to build a Virtual Assistant that will answer all the queries asked by students regarding SJSU application process. We will create a database for the questions asked by the students and thus the Virtual Assistant (alexa) will answer those questions according to its intelligence(the information with which it is trained) using its voice interaction abilities. 
 
 The alexa will be configured/programmed using Amazon LEX services which provides advanced deep learning functionalities such as Natural Language Understanding(NLU) and Automatic Speech Recognition(ASR) for conversion of speech to text.
 
